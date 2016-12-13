@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-stick-wall\\build\\intermediates\\res\\merged\\debug\\xml\\changelog.xml",
+        "source": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-stick-wall\\build\\intermediates\\exploded-aar\\de.cketti.library.changelog\\ckchangelog\\1.2.2\\res\\xml\\changelog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-stick-wall\\build\\intermediates\\res\\merged\\debug\\xml\\changelog_master.xml",
+        "source": "C:\\Users\\Pranit\\AndroidStudioProjects\\android-stick-wall\\res\\xml\\changelog_master.xml"
+    }
+]

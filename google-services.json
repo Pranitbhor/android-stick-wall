@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695327210353",
+    "firebase_url": "https://stick-wall.firebaseio.com",
+    "project_id": "stick-wall",
+    "storage_bucket": "stick-wall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695327210353:android:c4a3c9d3ea7f7693",
+        "android_client_info": {
+          "package_name": "com.kurvam.stickwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695327210353-78ms70r21ogdot79emtcl80ujo7t1tet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGQyDtdOXTI_3tjrC6WAs_PmBbQcA3sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

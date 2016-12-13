@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_416dd7f3202f232006508ae91778f61682468e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_ed6bb06707ae80b037a9fd1547c62b343ac26b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_811a2c081e6261057b7b4145dd82fc8b4a20c7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_0ad9d4a00e9fa1a8d3186f96364a903484606ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_c5ec49964f92d49fc71930922e67eb6cc16b054b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_811a2c081e6261057b7b4145dd82fc8b4a20c7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_c5ec49964f92d49fc71930922e67eb6cc16b054b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_416dd7f3202f232006508ae91778f61682468e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_f12f6e3f352f1ef026f6a05c36251927689d64c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_f12f6e3f352f1ef026f6a05c36251927689d64c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_a5aa98ffccbd47cd88b39f29b5ed413521314b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_0ad9d4a00e9fa1a8d3186f96364a903484606ecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_a5aa98ffccbd47cd88b39f29b5ed413521314b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_12a894a5818b69d469532a1937fc13f48009deeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_7619012576cf66a9ca313bdb5d60ab50d2521217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_c06d7adae8f40ba5e9feed6f6ef70abe66f21c58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_7619012576cf66a9ca313bdb5d60ab50d2521217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_15e48676848843b711ec2f576b715fbf97e4577d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_15e48676848843b711ec2f576b715fbf97e4577d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_e0270af76a50fe5e8e32546d7491de3a621599f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\de.cketti.library.changelog\ckchangelog\1.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="99fd3d6d721379e2b159310cfd7854c59065344a">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\de.cketti.library.changelog-ckchangelog-1.2.2_7156080195295686074d742a304697aeb3f0357b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_ed6bb06707ae80b037a9fd1547c62b343ac26b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_c06d7adae8f40ba5e9feed6f6ef70abe66f21c58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_e0270af76a50fe5e8e32546d7491de3a621599f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\de.cketti.library.changelog\ckchangelog\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="99fd3d6d721379e2b159310cfd7854c59065344a">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\de.cketti.library.changelog-ckchangelog-1.2.2_7156080195295686074d742a304697aeb3f0357b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Pranit\AndroidStudioProjects\android-stick-wall\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_12a894a5818b69d469532a1937fc13f48009deeb.jar" />
+    </item>
+
+</items>
